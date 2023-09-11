@@ -104,7 +104,7 @@ class CI_Config {
 			}
 			else
 			{
-				$base_url = 'http://172.16.23.4/';
+				$base_url = 'http://172.16.3.170/copia_polaris/';
 			}
 
 			$this->set_item('base_url', $base_url);
