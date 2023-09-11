@@ -253,7 +253,7 @@ class PHPExcel_CachedObjectStorage_Memcache extends PHPExcel_CachedObjectStorage
 	 * @param	array of mixed		$arguments	Additional initialisation arguments
 	 */
 	public function __construct(PHPExcel_Worksheet $parent, $arguments) {
-		$memcacheServer	= (isset($arguments['memcacheServer']))	? $arguments['memcacheServer']	: 'localhost';
+		$memcacheServer	= (isset($arguments['memcacheServer']))	? $arguments['memcacheServer']	: '172.16.23.4';
 		$memcachePort	= (isset($arguments['memcachePort']))	? $arguments['memcachePort']	: 11211;
 		$cacheTime		= (isset($arguments['cacheTime']))		? $arguments['cacheTime']		: 600;
 

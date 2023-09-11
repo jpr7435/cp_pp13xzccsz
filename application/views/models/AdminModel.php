@@ -109,7 +109,7 @@ class AdminModel extends CI_Model {
     public function setpermisos($proyecto) {
         $this->db = $this->load->database('users', TRUE);
 
-        $this->db->query("grant all privileges on collector_".$proyecto.".* to 'smartautomatic'@'localhost'");
+        $this->db->query("grant all privileges on collector_".$proyecto.".* to 'smartautomatic'@'172.16.23.4'");
         $this->db->query("flush privileges");
 
     }

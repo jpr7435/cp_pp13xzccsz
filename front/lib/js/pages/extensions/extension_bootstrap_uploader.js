@@ -12,7 +12,7 @@ $("#file-0").fileinput({
 });
 
 $("#file-1").fileinput({
-	uploadUrl: 'http://localhost',
+	uploadUrl: 'http://172.16.23.4',
 	allowedFileExtensions : ['jpg', 'png','gif'],
 	overwriteInitial: false,
 	maxFileSize: 1000,

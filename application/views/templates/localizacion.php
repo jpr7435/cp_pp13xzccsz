@@ -64,7 +64,7 @@ $hoy = date("Y-m-d");
                 <?php 
 
                     // Datos de conexión a la base de datos
-                    $servername = "localhost";
+                    $servername = "172.16.23.4";
                     $username = "usuarioselect";
                     $password = "Gh%P=+U]9;g*s8r";
                     $dbname = "collector_bbva";

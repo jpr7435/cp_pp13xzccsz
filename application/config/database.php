@@ -171,7 +171,7 @@ $db['whatsapp'] = array(
 
 $db['bbva'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleCorp',
 	'password' => 'Polaris',
 	'database' => 'collector_bbva',
@@ -194,7 +194,7 @@ $db['bbva'] = array(
 
 $db['movistar'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleCorp',
 	'password' => 'Polaris',
 	'database' => 'collector_bbva_movistar',
@@ -217,7 +217,7 @@ $db['movistar'] = array(
 
 $db['lilipink'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleCorp',
 	'password' => 'Polaris',
 	'database' => 'collector_lilipink',
@@ -239,7 +239,7 @@ $db['lilipink'] = array(
 
 $db['bbva_especial'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleCorp',
 	'password' => 'Polaris',
 	'database' => 'collector_bbva_especial',
@@ -261,7 +261,7 @@ $db['bbva_especial'] = array(
 
 $db['bbva_contacto'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleCorp',
 	'password' => 'Polaris',
 	'database' => 'collector_bbva_contacto',
@@ -283,7 +283,7 @@ $db['bbva_contacto'] = array(
 
 $db['bbva_libranzas'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleCorp',
 	'password' => 'Polaris',
 	'database' => 'collector_bbva_libranzas',
@@ -307,7 +307,7 @@ $db['bbva_libranzas'] = array(
 
 $db['bcsc'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleBCSC',
 	'password' => 'Polaris',
 	'database' => 'collector_bcsc',
@@ -329,7 +329,7 @@ $db['bcsc'] = array(
 
 $db['promotora'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'CollePromotora',
 	'password' => '3s8RBuJGWHHFEH6s',
 	'database' => 'collector_promotora',
@@ -351,7 +351,7 @@ $db['promotora'] = array(
 
 $db['credivalores'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'collecredivalore',
 	'password' => 'Guc8pFEXvIoRlKvw',
 	'database' => 'collector_credivalores',
@@ -373,7 +373,7 @@ $db['credivalores'] = array(
 
 $db['credivalores_pre'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'collecredivalore',
 	'password' => 'Guc8pFEXvIoRlKvw',
 	'database' => 'collector_credivalores_pre',
@@ -395,7 +395,7 @@ $db['credivalores_pre'] = array(
 
 $db['avista'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleavista',
 	'password' => 'dPQMUN0bnTTxSn7T',
 	'database' => 'collector_avista',
@@ -420,7 +420,7 @@ $db['avista'] = array(
 
 $db['csc'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'collectorCSC',
 	'password' => 'zbaO9Zg6iVvr0MaN',
 	'database' => 'collector_csc',
@@ -442,7 +442,7 @@ $db['csc'] = array(
 
 $db['juriscoop'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'collector_juris',
 	'password' => 'XiOZPgEOCX3g7JQe',
 	'database' => 'collector_juriscoop',
@@ -466,7 +466,7 @@ $db['juriscoop'] = array(
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => '',
 	'password' => '',
 	'database' => '',
@@ -488,7 +488,7 @@ $db['default'] = array(
 
 $db['users'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'usercollector',
 	'password' => 'oYwVpE0r4JOSiTfI',
 	'database' => 'collector_usuarios',
@@ -510,7 +510,7 @@ $db['users'] = array(
 
 $db['bcsc_media'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleBCSCM',
 	'password' => 'Polaris',
 	'database' => 'collector_bcsc_media',
@@ -555,7 +555,7 @@ $db['asterisk'] = array(
 
 $db['sms'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'smsuser',
 	'password' => 'RF6qChOznLuxEVlo',
 	'database' => 'collector_sms',
@@ -600,7 +600,7 @@ $db['call_center'] = array(
 
 $db['bankamoda'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '172.16.23.4',
 	'username' => 'colleCorp_bank',
 	'password' => '2fs7SJ3Ns3rWBKv',
 	'database' => 'collector_bankamoda',
